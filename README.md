@@ -1,2 +1,2 @@
-# Blog
-A simple blog made for practise.
+# exercise-repo
+repo made for exercise
